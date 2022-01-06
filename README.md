@@ -9,7 +9,3 @@
 <p>
   Aplikasi mobile food delivery beta
 </p>
-<br>
-
-## Documentasi
-
